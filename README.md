@@ -20,6 +20,46 @@ This is a React Native application that allows users to search for locations, ge
 - Mapbox Polyline
 - OpenCage Geocoding API
 
+
+## Screenshots
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 33.33%; padding: 5px;">
+    <img src="screenshots/landingPage.jpeg" alt="Screenshot 1" style="width: 150px;"/>
+    <p style="text-align: center;">Landing Page</p>
+  </div>
+  
+  <div style="flex: 33.33%; padding: 5px;">
+    <img src="screenshots/homescreen.jpeg" alt="Screenshot 2" style="width: 150px;"/>
+    <p style="text-align: center;">Home Screen before enter locations</p>
+  </div>
+  
+  <div style="flex: 33.33%; padding: 5px;">
+    <img src="screenshots/fromscreen.jpeg" alt="Screenshot 3" style="width: 150px;"/>
+    <p style="text-align: center;">Search for the from location</p>
+  </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 33.33%; padding: 5px;">
+    <img src="screenshots/toscreen.jpeg" alt="Screenshot 4" style="width: 150px;"/>
+    <p style="text-align: center;">Search for destination</p>
+  </div>
+  
+  <div style="flex: 33.33%; padding: 5px;">
+    <img src="screenshots/soute.jpeg" alt="Screenshot 5" style="width: 150px;"/>
+    <p style="text-align: center;">Draw the route</p>
+  </div>
+  
+  <div style="flex: 33.33%; padding: 5px;">
+    <img src="screenshots/routedetails.jpeg" alt="Screenshot 6" style="width: 150px;"/>
+    <p style="text-align: center;">Zoom in for route details</p>
+  </div>
+</div>
+
+
+
+
 ## Setup Instructions
 
 1. Clone the repository to your local machine:
